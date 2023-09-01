@@ -17,3 +17,7 @@ my own personal hosting of holy unblocker
 
 theoxymoron.xyz
 blocked but used to be a very good proxy, not very fast tho
+
+
+ingot / ltbeef.netlify.app
+ingot is a bookmarklet that can disable extensions, but unfortuonatelyz only works on chrome
