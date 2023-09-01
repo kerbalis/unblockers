@@ -25,3 +25,7 @@ ingot is a bookmarklet that can disable extensions, but unfortuonatelyz only wor
 https://borrrrnana-kerbalis.koyeb.app
 hypertabs, hosted by me
 
+
+https://whackylightbulb.org
+holy ub instance
+
