@@ -27,7 +27,7 @@ holy ub instance
 
 
 
-https://password-protection.netlify.app
+https://password-protection.netlify.app |
 proxy & games disguised as a calculator
 
 
