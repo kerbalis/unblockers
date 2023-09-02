@@ -20,7 +20,7 @@ blocked but used to be a very good proxy, not very fast tho
 
 
 ingot / ltbeef.netlify.app
-ingot is a bookmarklet that can disable extensions, but unfortuonatelyz only works on chrome
+ingot is a bookmarklet that can disable extensions, but unfortuonately only works on chrome
 
 https://borrrrnana-kerbalis.koyeb.app
 hypertabs, hosted by me
@@ -29,3 +29,20 @@ hypertabs, hosted by me
 https://whackylightbulb.org
 holy ub instance
 
+
+
+imbed site
+bookmarklet
+basically a portable proxy, from ludicrous.
+
+
+
+flooder
+bookmarklet
+floods history. gud 4 if uve been on bad stuff and the teachers / staff r gonna look thru ur history
+
+
+
+youtube unblocker
+bookmarklet
+unblocks youtube videos,  only catch is that u have 2 find the video u want 2 watch thru google
