@@ -1,0 +1,1 @@
+javascript:document.write(`<style> iframe{margin:0px; border:none; padding:0px; outline:none} body{margin:0px}</style><iframe src = ${prompt('enter url')}' width = ${window.innerWidth} height = ${window.innerHeight} />`)
