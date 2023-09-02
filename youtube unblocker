@@ -1,0 +1,1 @@
+javascript:(()=>{const hash=escape((new URLSearchParams(window.location.search).get('v'))); if (hash!==null){window.location.href='https://www.youtube-nocookie.com/embed/'+hash}})()
