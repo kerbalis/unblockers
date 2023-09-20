@@ -5,7 +5,11 @@
 
 ## https://website-kerbalis.koyeb.app |
 my own hosting of hypertabs, also under | 
-borrrrnana-kerbalis.koyeb.app
+
+
+
+## https://borrrrnana-kerbalis.koyeb.app |
+shuttle. pretty good. hosting this one also
 
 
 
