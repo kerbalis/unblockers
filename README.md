@@ -28,6 +28,9 @@ a very good unblocker, and also just an OS
 ## https://password-protection.netlify.app |
 proxy & games disguised as a calculator
 
+# games |    
+## https://nativegames.netlify.app/math
+game site with a panic button that takes you to google. i like it
 
 
 # bookmarklets
