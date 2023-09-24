@@ -32,6 +32,9 @@ proxy & games disguised as a calculator
 ## https://nativegames.netlify.app/math
 game site with a panic button that takes you to google. i like it
 
+## https://artclass.site |
+game site with about:blank cloaking
+
 
 # bookmarklets
 
